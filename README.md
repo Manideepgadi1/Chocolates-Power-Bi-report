@@ -44,5 +44,5 @@ Monthly comparisons (Current Year vs Previous Year)
 🧮 KPIs at a Glance: Total Amount, Boxes, Profit, and Profit %
 
 🧭 Interactive Filters: Enable dynamic data exploration
-Username:
-Screenshot:
+    Username: https://github.com/Manideepgadi1
+    Screenshot: https://github.com/Manideepgadi1/Chocolates-Power-Bi-report/blob/main/Power%20bi%20reoprt.png
